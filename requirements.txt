@@ -1,0 +1,14 @@
+# Core dependencies
+google-generativeai
+pinecone-client>=5.0.0
+PyMuPDF
+nltk
+python-dotenv
+requests
+
+# Text processing and embeddings
+sentence-transformers
+scikit-learn
+
+# Utilities
+tqdm 
